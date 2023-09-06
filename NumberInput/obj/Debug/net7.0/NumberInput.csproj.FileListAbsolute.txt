@@ -1,0 +1,14 @@
+/Users/xiahuiliu/HeroVsMonsterGame/NumberInput/bin/Debug/net7.0/NumberInput
+/Users/xiahuiliu/HeroVsMonsterGame/NumberInput/bin/Debug/net7.0/NumberInput.deps.json
+/Users/xiahuiliu/HeroVsMonsterGame/NumberInput/bin/Debug/net7.0/NumberInput.runtimeconfig.json
+/Users/xiahuiliu/HeroVsMonsterGame/NumberInput/bin/Debug/net7.0/NumberInput.dll
+/Users/xiahuiliu/HeroVsMonsterGame/NumberInput/bin/Debug/net7.0/NumberInput.pdb
+/Users/xiahuiliu/HeroVsMonsterGame/NumberInput/obj/Debug/net7.0/NumberInput.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xiahuiliu/HeroVsMonsterGame/NumberInput/obj/Debug/net7.0/NumberInput.AssemblyInfoInputs.cache
+/Users/xiahuiliu/HeroVsMonsterGame/NumberInput/obj/Debug/net7.0/NumberInput.AssemblyInfo.cs
+/Users/xiahuiliu/HeroVsMonsterGame/NumberInput/obj/Debug/net7.0/NumberInput.csproj.CoreCompileInputs.cache
+/Users/xiahuiliu/HeroVsMonsterGame/NumberInput/obj/Debug/net7.0/NumberInput.dll
+/Users/xiahuiliu/HeroVsMonsterGame/NumberInput/obj/Debug/net7.0/refint/NumberInput.dll
+/Users/xiahuiliu/HeroVsMonsterGame/NumberInput/obj/Debug/net7.0/NumberInput.pdb
+/Users/xiahuiliu/HeroVsMonsterGame/NumberInput/obj/Debug/net7.0/NumberInput.genruntimeconfig.cache
+/Users/xiahuiliu/HeroVsMonsterGame/NumberInput/obj/Debug/net7.0/ref/NumberInput.dll
